@@ -1,6 +1,3 @@
-#Dinh My Ky
-#STAT452
-
 library(dplyr)
 library(ggplot2)
 library(ggrepel)
